@@ -24,6 +24,10 @@ Contiene las gráficas y el historial de las métricas del segundo modelo CNN.
 
 Contiene las gráficas y el historial de las métricas del modelo de ResNet50 utilizando Transfer Learning.
 
+**4. Arquitectura Clasica CNN**
+
+Contiene las gráficas y el historial de las métricas del modelo de CNN utilizando una arquitectura donde el número de filtros aumenta en las capas más profundas.
+
 ## Files:
 
 **1. Predictions.zip**
